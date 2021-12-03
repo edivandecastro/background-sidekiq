@@ -23,6 +23,8 @@ gem 'jbuilder', '~> 2.7'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'sidekiq'
 
+gem 'redis-namespace'
+
 gem 'pry-byebug'
 
 # Use Active Storage variant
