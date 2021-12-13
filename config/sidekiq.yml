@@ -1,0 +1,2 @@
+# The maximum number of retries globally configured
+:max_retries: 5
